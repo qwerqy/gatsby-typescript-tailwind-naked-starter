@@ -1,6 +1,5 @@
 {
-  "name": "gatsby-ts-naked-starter",
-  "private": true,
+  "name": "gatsby-typescript-tailwind-naked-starter",
   "description": "A naked starter for me to start on any Gatsby project",
   "version": "1.0.0",
   "author": "Amin Roslan <amnrsln@gmail.com>",
@@ -28,7 +27,11 @@
     "@types/react-helmet": "^6.0.0",
     "prettier": "2.0.5"
   },
-  "keywords": [],
+  "keywords": [
+    "gatsby",
+    "tailwindcss",
+    "typescript"
+  ],
   "license": "MIT",
   "scripts": {
     "build": "gatsby build",
