@@ -7,6 +7,10 @@ Included dependencies
 - react-helmet
 - gatsby plugins
 
+## Use this starter
+
+`$ gatsby new project-name https://github.com/qwerqy/gatsby-typescript-tailwind-naked-starter.git`
+
 ## Installation
 This project uses `yarn`.
 
